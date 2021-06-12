@@ -1,0 +1,63 @@
+/* MENU HEADING */
+.list {
+    display: inline-block;
+    padding: 15px;
+}
+
+
+.menu .ul {
+    background: rgb(23, 165, 18);
+}
+
+.menu .ul, .list {
+    text-align: right;
+    word-spacing: 7px;
+    color:white;
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+.list:hover {
+    background-color: rgb(155, 155, 155);
+}
+
+
+.menu .ul .list a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu .ul .list a:visited {
+    color: white;
+}
+
+/* =================================================================== */
+
+/* Heading Web Personal */
+.head {
+    text-align: center;
+    background: rgb(43, 66, 109);
+}
+
+/* ====================================================================== */
+
+/* About us */
+.link-head {
+    background-color:rgb(54, 255, 47) ;
+}
+
+.link-head p {
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-size: 20px;
+}
